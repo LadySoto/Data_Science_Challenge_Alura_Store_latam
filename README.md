@@ -37,7 +37,7 @@ A partir del análisis de ingresos, productos vendidos, calificaciones de los cl
 
 ## 👩‍💻 Autor
 
-Este proyecto fue realizado por **[Lady Soto Dávila]** como parte del programa de formación **ONE (Oracle Next Education)** en la especialidad de **Data Science** con [Alura LATAM](https://www.aluracursos.com/) y [Oracle Next Education](https://www.oracle.com/lad/education/oracle-next-education/).
+Este proyecto fue realizado por **Lady Soto Dávila** como parte del programa de formación **ONE (Oracle Next Education)** en la especialidad de **Data Science** con [Alura LATAM](https://www.aluracursos.com/) y [Oracle Next Education](https://www.oracle.com/lad/education/oracle-next-education/).
 
 ## 📬 Contacto
 
